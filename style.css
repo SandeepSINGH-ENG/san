@@ -577,3 +577,6 @@
     .card img{
         transition-duration: 1s;
     }
+table tr td:nth-child(2) {
+    text-align: right;
+}
